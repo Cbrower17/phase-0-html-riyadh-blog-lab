@@ -45,6 +45,12 @@ h3 {
   margin-top: .5em;
 }
 
+h4 {
+  font-family: 'Gabriela', serif;
+  font-size: 1.25em;
+  margin-top: .5em;
+}
+
 img {
   max-width: 100%;
   width: 100%;
@@ -52,12 +58,13 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .5em;
 }
 
 a {
   color: black;
   text-decoration: none;
+  font-size:.5em
 }
 
 a:hover {

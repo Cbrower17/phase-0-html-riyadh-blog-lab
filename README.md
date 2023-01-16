@@ -26,7 +26,7 @@ In the `index.html` file, use the comments in the code to place the content from
 [`MOCKUP.jpg`](https://s3.amazonaws.com/learn-verified/RIYADH-MOCKUP.jpg) can be
 used as a reference to build the `index.html` page as it appears.
 
-Open `index.html` in a separate browser tab to see your progress as you work.
+Open `index.html` in a separate browser tab to see your progress as you work. 
 Run `npm test` as you go to see test results.
 
 ### Bonus
